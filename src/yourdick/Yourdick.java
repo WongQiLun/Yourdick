@@ -17,6 +17,7 @@ public class Yourdick {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("owo World");
+        System.out.println("cancer");
     }
     
 }
